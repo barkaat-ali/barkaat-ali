@@ -19,5 +19,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=barkaat-ali&show_icons=true&locale=en&layout=compact" alt="barkaat-ali" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=barkaat-ali&show_icons=true&locale=en" alt="barkaat-ali" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=barkaat-ali&" alt="barkaat-ali" /></p>
