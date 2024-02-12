@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, This is Barkaat </h1>
-<h3 align="center">A passionate Data Scientist</h3>
+<h3 align="center">A Certified Data Scientist Associate</h3>
 
 - 🔭 I’m currently working on **Dynamic Malware Analysis**
 
